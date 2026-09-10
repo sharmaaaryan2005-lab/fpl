@@ -1,0 +1,7 @@
+{
+  "name": "the-armband",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FPL captaincy call — your real squad, this week's data, one reasoned pick."
+}
